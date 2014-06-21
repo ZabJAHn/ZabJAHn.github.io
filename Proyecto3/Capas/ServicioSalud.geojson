@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Ebais", "Nombre": "Los Angeles" }, "geometry": { "type": "Point", "coordinates": [ -84.474151103267786, 10.133953590355928 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Ebais", "Nombre": "Santiago" }, "geometry": { "type": "Point", "coordinates": [ -84.486975667035196, 10.064804132157107 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Farmacia", "Nombre": "San Ramon" }, "geometry": { "type": "Point", "coordinates": [ -84.469329902839277, 10.091955176519475 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Farmacia", "Nombre": "Lobo" }, "geometry": { "type": "Point", "coordinates": [ -84.471614123298238, 10.088855840046126 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Laboratorio", "Nombre": "JR Sanchez" }, "geometry": { "type": "Point", "coordinates": [ -84.47045305688232, 10.094545065483826 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Hospital", "Nombre": "Carlos Luis Valverde Vega" }, "geometry": { "type": "Point", "coordinates": [ -84.469969674129601, 10.092786879196955 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Cruz Roja", "Nombre": "San Ramon" }, "geometry": { "type": "Point", "coordinates": [ -84.46731580803619, 10.087192434691158 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Farmacia", "Nombre": "Central" }, "geometry": { "type": "Point", "coordinates": [ -84.470799007283759, 10.087855901214505 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Farmacia", "Nombre": "Sinse Milla" }, "geometry": { "type": "Point", "coordinates": [ -84.471362953828617, 10.088860579092712 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Farmacia", "Nombre": "DR BLESS" }, "geometry": { "type": "Point", "coordinates": [ -84.469661636100895, 10.088922186698452 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Farmacia", "Nombre": "San Jose" }, "geometry": { "type": "Point", "coordinates": [ -84.468102489771027, 10.088424586805942 ] } }
+]
+}

@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Nombre": "Rio Grande" }, "geometry": { "type": "Point", "coordinates": [ -84.458868682202322, 10.097572256358804 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nombre": "Quebrada Estero" }, "geometry": { "type": "Point", "coordinates": [ -84.462558686238907, 10.093155025249336 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nombre": "Rio Grande" }, "geometry": { "type": "Point", "coordinates": [ -84.457198753368274, 10.093074222241237 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nombre": "Rio Grande" }, "geometry": { "type": "Point", "coordinates": [ -84.458814813530282, 10.089518889884836 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nombre": "Quebrada Santiago" }, "geometry": { "type": "Point", "coordinates": [ -84.485237397178963, 10.067136456641128 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nombre": "Quebrada Santiago" }, "geometry": { "type": "Point", "coordinates": [ -84.483203854808451, 10.067702077697827 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nombre": "Carretera Bernardo Soto" }, "geometry": { "type": "Point", "coordinates": [ -84.472012638186612, 10.076469204076682 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nombre": "Quebrada Caracol" }, "geometry": { "type": "Point", "coordinates": [ -84.470059898824189, 10.071398815318405 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nombre": "Rio Grande" }, "geometry": { "type": "Point", "coordinates": [ -84.470854461737176, 10.071425749654438 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nombre": "Rio Grande" }, "geometry": { "type": "Point", "coordinates": [ -84.460686749884587, 10.079566652720512 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nombre": "Rio Grande" }, "geometry": { "type": "Point", "coordinates": [ -84.460659815548553, 10.078839425647612 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nombre": "Quebrada Ramirez" }, "geometry": { "type": "Point", "coordinates": [ -84.463043504287498, 10.072449254423701 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nombre": "Rio Grande" }, "geometry": { "type": "Point", "coordinates": [ -84.460552078204401, 10.080327547713454 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nombre": "Carretera Bernardo Soto" }, "geometry": { "type": "Point", "coordinates": [ -84.460390472188195, 10.079512784048445 ] } }
+]
+}

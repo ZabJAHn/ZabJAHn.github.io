@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Tienda", "Nombre": "Econo" }, "geometry": { "type": "Point", "coordinates": [ -84.469910838722328, 10.089533574353919 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Ferreteria", "Nombre": "Jorcel" }, "geometry": { "type": "Point", "coordinates": [ -84.471455785801979, 10.089704504669113 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Supermercado", "Nombre": "PALI" }, "geometry": { "type": "Point", "coordinates": [ -84.470239550866921, 10.089047080379903 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Supermercado", "Nombre": "Molina" }, "geometry": { "type": "Point", "coordinates": [ -84.471146796386037, 10.089408663738968 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Supermercado", "Nombre": "El Avance" }, "geometry": { "type": "Point", "coordinates": [ -84.473342593512015, 10.089730801640679 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Tienda", "Nombre": "Alarsa" }, "geometry": { "type": "Point", "coordinates": [ -84.46889183107406, 10.088514566705642 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Tienda", "Nombre": "Pinturas Sur" }, "geometry": { "type": "Point", "coordinates": [ -84.47164643884588, 10.085475622928765 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Tienda", "Nombre": "La bodega" }, "geometry": { "type": "Point", "coordinates": [ -84.469575552334874, 10.085107465326809 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Tienda", "Nombre": "Cyan" }, "geometry": { "type": "Point", "coordinates": [ -84.469338879590751, 10.085626830515283 ] } },
+{ "type": "Feature", "properties": { "id": null, "TipoServic": "Supermercado", "Nombre": "Galeron de las Ofertas" }, "geometry": { "type": "Point", "coordinates": [ -84.471725329760545, 10.087546509439777 ] } }
+]
+}
